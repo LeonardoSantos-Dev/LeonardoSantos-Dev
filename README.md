@@ -1,7 +1,7 @@
 🟢 Olá! Eu sou o Leonardo Santos!👨🏾‍💻
 <br>
 <br>
-Eu sou o Leonardo Santos, programador Front-End em constante aprendizado e evolução.
+Eu sou um programador Front-End em constante aprendizado e evolução.
 Estou me tornando um desenvolvedor Full Stack com uma nova formação junto ao DevClub.
 <br>
 <br>

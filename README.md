@@ -1,4 +1,4 @@
-<h1>🟢 Olá! Eu sou o Leonardo Santos!👨🏾‍💻
+<h1>🟢 Olá! Me chamo Leonardo Santos!👨🏾‍💻
 <br>
 <br>
 Eu sou um programador Front-End em constante aprendizado e evolução.
